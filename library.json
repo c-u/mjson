@@ -1,0 +1,12 @@
+{
+    "name": "mjson_esp",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cesanta/mjson.git"
+    },
+    "license": "MIT License",
+    "export": {
+        "include": ["src/*.h"]
+    }
+}
